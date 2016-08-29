@@ -1,13 +1,12 @@
 ---
 layout: project
 type: project
-image: images/frc.png
-title: First Robotics
-permalink: projects/frc
-date: 2013
+image: images/bigdata.jpg
+title: Big Data
+permalink: projects/bigdata
+date: 2016
 labels:
-  - Robotics
-  - C++
+  - Python
 summary: My team developed a robot in six weeks to compete in a regional First Robotics Competition.
 ---
 
