@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/frc.jpg
 title: Cotton
-permalink: projects/cotton
+permalink: projects/frc
 date: 2014
 labels:
   - Robotics
