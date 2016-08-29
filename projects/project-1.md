@@ -10,6 +10,7 @@ labels:
   - C++
 summary: A text adventure game I developed for ICS 313.
 ---
+<img class="ui medium right floated rounded image" src="/images/micromouse-robot.png">
 
 The FIRST Robotics Competition is an event that give students a taste of engineering constraints.  Teams have six weeks to design and build a large robot to play an annual game, which changes every year.  Students learn professionalism, sportsmanship, workmanship, and cooperation, in addition to many technical skills, such as programming or welding. 
 
