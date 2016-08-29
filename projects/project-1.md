@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/frc.png
+title: First Robotics
+permalink: projects/frc
 date: 2014
 labels:
   - Lisp
