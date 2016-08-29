@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/frc.png
+image: images/FRC2.jpg
 title: First Robotics
 permalink: projects/frc
 date: 2013
