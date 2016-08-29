@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: images/frc.png
-title: Cotton
+title: FIRST Robotics
 permalink: projects/frc
-date: 2014
+date: 2010-2013
 labels:
   - Robotics
   - C++
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/frc.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
