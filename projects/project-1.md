@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/frc.jpg
+image: images/cotton.png
 title: FIRST Robotics
-permalink: projects/frc
+permalink: projects/cotton
 date: 2010-2013
 labels:
   - Robotics
