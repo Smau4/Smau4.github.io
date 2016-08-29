@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/frc.jpg
+title: FIRST Robotics
+permalink: projects/frc
+date: 2010-2013
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Robotics
+  - C++
+summary: My team developed a robot in six weeks to compete in a regional First Robotics Competition.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
