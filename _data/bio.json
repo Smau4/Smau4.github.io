@@ -79,12 +79,12 @@
       "gpa": "3.87",
       "courses": [
         "ICS 211: Java 2"
-        "ICS 212: Program Structures"
-        "EE 260: Digital Design"
-        "EE 361: Computer Architecture"
-        "EE 362: Discrete Math"
-        "EE 367: Data Structures and Algorithms"
-        "EE 468: Operating Systems"
+        "ICS 212: Program Structures",
+        "EE 260: Digital Design",
+        "EE 361: Computer Architecture",
+        "EE 362: Discrete Math",
+        "EE 367: Data Structures and Algorithms",
+        "EE 468: Operating Systems",
       ]
     }
   ],
