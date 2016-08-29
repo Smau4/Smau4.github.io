@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/frc.jpg
+image: images/frc.png
 title: Cotton
 permalink: projects/frc
 date: 2014
