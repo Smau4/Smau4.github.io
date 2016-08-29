@@ -10,9 +10,9 @@ labels:
 summary: Design and build a drone to compete in a search and rescue competition.
 ---
 
-The FIRST Robotics Competition is an event that give students a taste of engineering constraints.  Teams have six weeks to design and build a large robot to play an annual game, which changes every year.  Students learn professionalism, sportsmanship, workmanship, and cooperation, in addition to many technical skills, such as programming or welding. 
+AUVSI (Association For Unmanned Vehicle Systems International) hosts a student unmanned aerial systems competition each year.  The goal of the compeition is to complete in various search and rescue tasks.  For each task, a team can be awarded a level of completion, ranging from threshold (requirements just met) to objective (exceeding requirements).  Some tasks include finding alphanumeric targets on the ground, identifying QR codes, and flying to waypoints.
 
-In my FIRST Robotics team, I was a core programmer.  It was FIRST Robotics that inspired me to become a computer engineer.  All of the code was done in C++.  I have written code for a drive system, an autonomously aiming basketball shooter, an autonomous climbing mechanism, and much much more.  If you would like additional information about the details of these projects, contact me at Smau4@hawaii.edu.
+My role in Drone Tech was to identify the alphanumeric targets, by characteristic and location.  At this year's competition, our team was tied for fifth in the performance section of the AUVSI competition.  The location of the targets could be identified reliably within 100 feet.
 
-You can learn more about FIRST Robotics at the [FRC Website](http://www.firstinspires.org/robotics/frc).
+You can learn more about the AUVSI competiton at the [2016 AUVSI Compeition Page](http://www.auvsi-seafarer.org/news-events/2016-competition.aspx).
 
