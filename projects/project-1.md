@@ -6,8 +6,8 @@ title: First Robotics
 permalink: projects/frc
 date: 2014
 labels:
-  - Lisp
-  - GitHub
+  - Robotics
+  - C++
 summary: A text adventure game I developed for ICS 313.
 ---
 
