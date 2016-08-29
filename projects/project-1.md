@@ -1,12 +1,12 @@
 ---
 layout: project
 image: images/frc.jpg
-title: Cotton
+title: FRC
 permalink: projects/frc
 date: 2014
 labels:
-  - Lisp
-  - GitHub
+  - Robotics
+  - C++
 summary: My team developed a robot in six weeks to compete in a regional First Robotics Competition.
 ---
 
