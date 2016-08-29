@@ -14,5 +14,3 @@ A professor at the university created code to sift through a large amount of bit
 
 The code in Python created a tree, and updated it as new bits were added.  As new bits were added, the size of the tree grew larger.  I was able to integrate my knowledge of data structures and Python to create baseline code that worked for a small number of bits.
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
-
