@@ -1,13 +1,13 @@
 ---
 layout: project
 type: project
-image: images/frc.png
-title: FIRST Robotics
-permalink: projects/frc
-date: 2010-2013
+image: images/cotton-square.png
+title: Cotton
+permalink: projects/cotton
+date: 2014
 labels:
-  - Robotics
-  - C++
+  - Lisp
+  - GitHub
 summary: A text adventure game I developed for ICS 313.
 ---
 
@@ -57,8 +57,3 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 <hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
-
-
-
-
