@@ -4,7 +4,7 @@ type: project
 image: images/frc.jpg
 title: First Robotics
 permalink: projects/frc
-date: 2013
+date: 2010-2013
 labels:
   - Robotics
   - C++
