@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Bigdata2.jpg
+image: images/bigdata-1.jpg
 title: Big Data
 permalink: projects/bigdata
 date: 2016
