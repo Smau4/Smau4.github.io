@@ -10,7 +10,7 @@ labels:
 summary: Remaking an anomaly detecting code in another programming language to increase efficiency.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/bigdata_2.png">
 
 A professor at the university created code to sift through a large amount of bits and find anomalies within the code.  To do this, he built a tree with the estimated probabilities of different bit sequences.  The code was originally written in Matlab, the programming language he was most familiar with.  However, as the data became larger and larger, the code became much slower.  So, we began to intergrate the code into Python.  I did not know Python, so I learned it during the semester.
 
