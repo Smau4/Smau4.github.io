@@ -8,6 +8,7 @@ date: 2013
 labels:
   - Robotics
   - C++
+
 summary: My team developed a robot in six weeks to compete in a regional First Robotics Competition.
 ---
 
