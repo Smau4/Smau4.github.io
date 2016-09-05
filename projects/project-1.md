@@ -11,7 +11,7 @@ labels:
 
 summary: My team developed a robot in six weeks to compete in a regional First Robotics Competition.
 ---
-  <img class="ui tiny left circular floated image" src="../images/frc_2.jpg">
+  <img class="ui image" src="../images/frc_2.jpg">
 
 The FIRST Robotics Competition is an event that give students a taste of engineering constraints.  Teams have six weeks to design and build a large robot to play an annual game, which changes every year.  Students learn professionalism, sportsmanship, workmanship, and cooperation, in addition to many technical skills, such as programming or welding. 
 
