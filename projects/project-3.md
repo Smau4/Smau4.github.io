@@ -9,6 +9,7 @@ labels:
   - Robotics
 summary: Design and build a drone to compete in a search and rescue competition.
 ---
+<img class="ui image" src="../images/drone_1.jpg">
 
 AUVSI (Association For Unmanned Vehicle Systems International) hosts a student unmanned aerial systems competition each year.  The goal of the compeition is to complete in various search and rescue tasks.  For each task, a team can be awarded a level of completion, ranging from threshold (requirements just met) to objective (exceeding requirements).  Some tasks include finding alphanumeric targets on the ground, identifying QR codes, and flying to waypoints.
 
