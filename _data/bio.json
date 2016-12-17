@@ -29,7 +29,7 @@
   },
   "interests": [
     {
-      "name": "Computer Communication Networks",
+      "name": "Computer Networks",
       "keywords": [
       ]
     },
@@ -55,7 +55,8 @@
         "Javascript",
         "Verilog",
         "VHDL",
-        "Matlab"
+        "Matlab",
+        "Python"
       ]
     },
     {
@@ -65,6 +66,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "Meteor",
         "g++",
       ]
     }
@@ -80,10 +82,12 @@
       "courses": [
         "ICS 211: Java 2",
         "ICS 212: Program Structures",
+        "MATH 321: Introduction to Proofs",
         "EE 260: Digital Design",
         "EE 361: Computer Architecture",
         "EE 362: Discrete Math",
         "EE 367: Data Structures and Algorithms",
+        "EE 449: Computer Communication Networks",
         "EE 468: Operating Systems",
       ]
     }
